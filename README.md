@@ -1,4 +1,4 @@
-# classicPongGame
+# Classic Pong Game
 
 Hey, This is the classic Pong Game, 
 There is ball that moves around the screen space and each player tries to save the ball hitting their side's wall.
