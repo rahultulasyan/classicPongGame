@@ -9,4 +9,4 @@ I have used turtle python module for this.
 I have also tried to made it interesting by adding some sounds using the winsound python module for windows OS.
 This module is specifically for windows sounds but there exists similar modules for other Operating Systems also.
 
-
+This game currently runs in a window size of (800px by 600px) and will run until player exits the game screen.
